@@ -1,4 +1,12 @@
 
+Foreword
+========
+
+This is just [mariasql](https://github.com/mscdex/node-mariasql) fork with BSD compatibility changes from
+[@sarog](https://github.com/sarog) that are listed [in this PR](https://github.com/mscdex/node-mariasql/pull/171).
+
+All credit goes to people mentioned above. I just released this to be able to build my project properly on BSD. 
+
 Description
 ===========
 
