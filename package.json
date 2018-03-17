@@ -1,4 +1,4 @@
-{ "name": "@dzek69/mariasql",
+{ "name": "mariasql",
   "version": "0.2.7-beta.1",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "A node.js binding to MariaDB's non-blocking (MySQL-compatible) client library",
